@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.grey-box {
+    padding: 15px 0;
+    background-color: #ccc;
+    line-height: 250%;
+    width: 500px;
+    min-height: 150px;
+}
+.grey-box h1 {
+    color: #630;
+}
+.grey-box h3 {
+    color: #963;
+}
+.grey-box a {
+    color: #360;
+}
